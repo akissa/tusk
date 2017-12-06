@@ -2,6 +2,11 @@
 Tusk
 ====
 
+|travis|
+
+.. |travis| image:: https://travis-ci.org/akissa/tusk.svg?branch=master
+    :target: https://travis-ci.org/akissa/tusk
+
 Installing
 ==========
 
